@@ -2,7 +2,7 @@
 
 ## Internship Task
 
-Machine Learning Internship - SkillCraft Technology
+Machine Learning Internship - SkillCraft Technology.
 
 ### Task 01
 
