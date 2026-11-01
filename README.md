@@ -1,4 +1,4 @@
-# SCT_ML_1 - House Price Prediction.
+# SCT_ML_1 - House Price Prediction
 
 ## Internship Task
 
