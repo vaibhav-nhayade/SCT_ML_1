@@ -1,6 +1,6 @@
 # SCT_ML_1 - House Price Prediction.
 
-## Internship Task
+## Internship Task.
 
 Machine Learning Internship - SkillCraft Technology.
 
